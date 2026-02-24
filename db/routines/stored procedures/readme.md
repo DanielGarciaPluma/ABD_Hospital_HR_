@@ -1,5 +1,4 @@
 # 📌 Procedimientos Almacenados – Base de Datos
-
 ## 📂 Módulo de Recursos Humanos
 
 ---
