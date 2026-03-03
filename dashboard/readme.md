@@ -12,20 +12,14 @@ El dashboard utiliza **datos simulados** para demostrar la capacidad analítica 
 
 ```
 dashboard/
+├── dashboard_pacientes_nbi            # Este archivo contiene las gracifa de los datos
 ├── readme.md                          # Este archivo (guía principal)
-├── GUIA_USO.md                        # Guía de uso del dashboard
-├── DATOS_SIMULADOS.md                 # Documentación de datos simulados
-├── ANALISIS_VISUALES.md               # Análisis y visualizaciones
-├── dashboard_pacientes.nbi            # Archivo del dashboard (Navicat BI)
-└── assets/
-    ├── screenshots/                   # Capturas de pantalla
-    ├── diagrama_dispersion.png        # Gráfica de dispersión
-    └── graficos/                      # Gráficos y visualizaciones
 ```
 
 ---
 
 ## 🎯 Características Principales
+
 
 ### 1. **Visualizaciones de Datos**
 - Gráficos de dispersión de edades y distribución de pacientes
