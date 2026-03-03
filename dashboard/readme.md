@@ -12,20 +12,18 @@ El dashboard utiliza **datos simulados** para demostrar la capacidad analítica 
 
 ```
 dashboard/
+├── dashboard_pacientes_nbi            # Este archivo contiene las gracifa de los datos
 ├── readme.md                          # Este archivo (guía principal)
-├── GUIA_USO.md                        # Guía de uso del dashboard
-├── DATOS_SIMULADOS.md                 # Documentación de datos simulados
-├── ANALISIS_VISUALES.md               # Análisis y visualizaciones
-├── dashboard_pacientes.nbi            # Archivo del dashboard (Navicat BI)
-└── assets/
-    ├── screenshots/                   # Capturas de pantalla
-    ├── diagrama_dispersion.png        # Gráfica de dispersión
-    └── graficos/                      # Gráficos y visualizaciones
 ```
 
 ---
 
 ## 🎯 Características Principales
+
+<p align="center"><img src="/Image/image.png" alt="Prueba 15" width="full"/></p>
+
+---
+
 
 ### 1. **Visualizaciones de Datos**
 - Gráficos de dispersión de edades y distribución de pacientes
@@ -50,11 +48,8 @@ dashboard/
 ## 🚀 Inicio Rápido
 
 1. **Abrir el dashboard**: Haz doble clic en `dashboard_pacientes.nbi`
-2. **Explorar datos**: Utiliza los filtros interactivos en el panel lateral
-3. **Analizar visualizaciones**: Examina los gráficos y tablas dinámicas
-4. **Exportar resultados**: Descarga reportes en formato PDF o Excel
+2. **Analizar visualizaciones**: Examina los gráficos y tablas dinámicas
 
-Ver [GUIA_USO.md](GUIA_USO.md) para instrucciones detalladas.
 
 ---
 
@@ -67,8 +62,6 @@ El dashboard visualiza datos simulados que incluyen:
 - **Género**: Clasificación binaria (M/F)
 - **Estado de Paciente**: Activo, Inactivo, En Seguimiento
 - **Indicadores de Salud**: Datos simulados para análisis
-
-Consulta [DATOS_SIMULADOS.md](DATOS_SIMULADOS.md) para más detalles.
 
 ---
 
@@ -83,8 +76,6 @@ La dispersión de datos se representa en coordenadas cartesianas donde:
 
 ### Histogramas
 Muestran la frecuencia de ocurrencia de valores en rangos específicos, permitiendo identificar modas y distribuciones.
-
-Más información en [ANALISIS_VISUALES.md](ANALISIS_VISUALES.md).
 
 ---
 
@@ -117,14 +108,6 @@ Más información en [ANALISIS_VISUALES.md](ANALISIS_VISUALES.md).
 
 ---
 
-## 🔗 Enlaces Relacionados
-
-- [Documentación de Datos Simulados](DATOS_SIMULADOS.md)
-- [Guía Completa de Uso](GUIA_USO.md)
-- [Análisis de Visualizaciones](ANALISIS_VISUALES.md)
-- [Estructura General del Proyecto](/readme.md)
-
----
 
 ## 👤 Autor
 
@@ -135,8 +118,3 @@ Base de Datos Avanzada (ABD)
 **Última Actualización**: Febrero 2026
 
 ---
-
-## 📞 Soporte
-
-Para reportar problemas o sugerencias sobre el dashboard, consulta la documentación complementaria o revisa los logs de conexión en Navicat.
-
