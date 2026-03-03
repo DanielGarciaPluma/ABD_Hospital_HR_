@@ -179,8 +179,6 @@ tbb_personas:
 tbb_personas_fisicas:
 <p align="center"><img src="./image/7.3.png" alt="Prueba 7" width="full"/></p>
 
-
-
 ---
 
 ### Test 8 - Registro de 340 Pacientes varones de entre 20 y 30 años
@@ -202,12 +200,8 @@ tbb_pacientes:
 tbb_personas:
 <p align="center"><img src="./image/8.2.png" alt="Prueba 8" width="full"/></p>
 
-
-
 tbb_personas_fisicas:
 <p align="center"><img src="./image/8.3.png" alt="Prueba 8" width="full"/></p>
-
-
 
 ---
 
@@ -234,8 +228,6 @@ tbb_personas:
 
 tbb_personas_fisicas:
 <p align="center"><img src="./image/9.2.png" alt="Prueba 9" width="full"/></p>
-
-
 
 ---
 
@@ -280,9 +272,11 @@ tbb_personas_fisicas:
 tbb_pacientes:
 <p align="center"><img src="./image/11.1.png" alt="Prueba 11" width="full"/></p>
 
+tbb_personas:
+<p align="center"><img src="./image/11.2.png" alt="Prueba 11" width="full"/></p>
 
 tbb_personas_fisicas:
-<p align="center"><img src="./image/11.2.png" alt="Prueba 11" width="full"/></p>
+<p align="center"><img src="./image/12.2.png" alt="Prueba 11" width="full"/></p>
 
 ---
 
@@ -303,12 +297,12 @@ tbb_pacientes:
 
 
 tbb_personas:
-<p align="center"><img src="./image/12.2.png" alt="Prueba 12" width="full"/></p>
+<p align="center"><img src="./image/12.3.png" alt="Prueba 12" width="full"/></p>
 
 
 tbb_personas_fisicas:
 
-<p align="center"><img src="./image/12.3.png" alt="Prueba 12" width="full"/></p>
+<p align="center"><img src="./image/12.2.png" alt="Prueba 12" width="full"/></p>
 ---
 
 ### Test 13 - Registro de 15 Pacientes en estado Vegetativo
@@ -327,24 +321,11 @@ tbb_pacientes:
 <p align="center"><img src="./image/13.1.jpeg" alt="Prueba 13" width="full"/></p>
 
 tbb_personas:
-<p align="center"><img src="./image/13.2.jpeg" alt="Prueba 12" width="full"/></p>
+<p align="center"><img src="./image/13.2.jpeg" alt="Prueba 13" width="full"/></p>
 
 tbb_personas_fisicas:
 
-<p align="center"><img src="./image/13.3.jpeg" alt="Prueba 12" width="full"/></p>
-
-##### Datos insertados:
-
-
-
-tbb_pacientes:
-
-
-tbb_personas:
-
-
-tbb_personas_fisicas:
-
+<p align="center"><img src="./image/13.3.jpeg" alt="Prueba 13" width="full"/></p>
 
 ---
 
@@ -361,26 +342,14 @@ tbb_personas_fisicas:
 ##### Datos insertados:
 
 tbb_pacientes:
-<p align="center"><img src="./image/14.1.jpeg" alt="Prueba 13" width="full"/></p>
+<p align="center"><img src="./image/14.1.jpeg" alt="Prueba 14" width="full"/></p>
 
 tbb_personas:
-<p align="center"><img src="./image/14.2.jpeg" alt="Prueba 12" width="full"/></p>
+<p align="center"><img src="./image/14.2.jpeg" alt="Prueba 14" width="full"/></p>
 
 tbb_personas_fisicas:
 
-<p align="center"><img src="./image/14.3.jpeg" alt="Prueba 12" width="full"/></p>
-
-
-##### Datos insertados:
-
-tbb_pacientes:
-
-
-tbb_personas:
-
-
-tbb_personas_fisicas:
-
+<p align="center"><img src="./image/14.3.jpeg" alt="Prueba 14" width="full"/></p>
 
 ---
 
@@ -398,9 +367,11 @@ tbb_personas_fisicas:
 ##### Datos insertados:
 
 tbb_pacientes:
-
+<p align="center"><img src="./image/15.1.jpeg" alt="Prueba 15" width="full"/></p>
 
 tbb_personas:
-
+<p align="center"><img src="./image/15.2.jpeg" alt="Prueba 15" width="full"/></p>
 
 tbb_personas_fisicas:
+
+<p align="center"><img src="./image/15.3.jpeg" alt="Prueba 15" width="full"/></p>
