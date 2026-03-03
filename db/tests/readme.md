@@ -45,3 +45,4 @@ Una validación adecuada reduce errores en producción y fortalece la confiabili
 Las pruebas deben ejecutarse en un entorno controlado y documentarse adecuadamente para mantener trazabilidad en el desarrollo del proyecto.
 
 ---
+creacion de la rama Say_dev
