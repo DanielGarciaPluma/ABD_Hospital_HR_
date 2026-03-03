@@ -20,6 +20,10 @@ dashboard/
 
 ## 🎯 Características Principales
 
+<p align="center"><img src="/Image/image.png" alt="Prueba 15" width="full"/></p>
+
+---
+
 
 ### 1. **Visualizaciones de Datos**
 - Gráficos de dispersión de edades y distribución de pacientes
