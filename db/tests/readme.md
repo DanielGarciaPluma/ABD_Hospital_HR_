@@ -439,8 +439,3 @@ tbb_personas:
 | 4323 | Física | DOCL110216ZN5 | Canadá | 2026-02-16 19:09:15 | NULL | 1 |
 
 tbb_personas_fisicas:
-| ID | titulo_cortesia | nombre | primer_apellido | segundo_apellido | genero | fecha_nacimiento | curp | grupo_sanguineo | fecha_registro | fecha_actualizacion | estatus |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-| 4325 | Niña | Frida | Cantu | Rivera | M | 2021-02-16 | CARF210216MNENVR5 | O+ | 2026-02-16 19:09:15 | NULL | 1 |
-| 4324 | Joven | Estefanía | Resendiz | Marquez | M | 2011-02-16 | REME110216MNESRS1 | AB+ | 2026-02-16 19:09:15 | NULL | 1 |
-| 4323 | Joven | Lucía | Dominguez | Carrillo | M | 2011-02-16 | DOCL110216MNEMRC8 | B+ | 2026-02-16 19:09:15 | NULL | 1 |
