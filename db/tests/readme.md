@@ -179,8 +179,6 @@ tbb_personas:
 tbb_personas_fisicas:
 <p align="center"><img src="./image/7.3.png" alt="Prueba 7" width="full"/></p>
 
-
-
 ---
 
 ### Test 8 - Registro de 340 Pacientes varones de entre 20 y 30 años
@@ -202,12 +200,8 @@ tbb_pacientes:
 tbb_personas:
 <p align="center"><img src="./image/8.2.png" alt="Prueba 8" width="full"/></p>
 
-
-
 tbb_personas_fisicas:
 <p align="center"><img src="./image/8.3.png" alt="Prueba 8" width="full"/></p>
-
-
 
 ---
 
@@ -234,8 +228,6 @@ tbb_personas:
 
 tbb_personas_fisicas:
 <p align="center"><img src="./image/9.2.png" alt="Prueba 9" width="full"/></p>
-
-
 
 ---
 
@@ -280,9 +272,11 @@ tbb_personas_fisicas:
 tbb_pacientes:
 <p align="center"><img src="./image/11.1.png" alt="Prueba 11" width="full"/></p>
 
+tbb_personas:
+<p align="center"><img src="./image/11.2.png" alt="Prueba 11" width="full"/></p>
 
 tbb_personas_fisicas:
-<p align="center"><img src="./image/11.2.png" alt="Prueba 11" width="full"/></p>
+<p align="center"><img src="./image/12.2.png" alt="Prueba 11" width="full"/></p>
 
 ---
 
@@ -303,12 +297,12 @@ tbb_pacientes:
 
 
 tbb_personas:
-<p align="center"><img src="./image/12.2.png" alt="Prueba 12" width="full"/></p>
+<p align="center"><img src="./image/12.3.png" alt="Prueba 12" width="full"/></p>
 
 
 tbb_personas_fisicas:
 
-<p align="center"><img src="./image/12.3.png" alt="Prueba 12" width="full"/></p>
+<p align="center"><img src="./image/12.2.png" alt="Prueba 12" width="full"/></p>
 ---
 
 ### Test 13 - Registro de 15 Pacientes en estado Vegetativo
@@ -327,37 +321,11 @@ tbb_pacientes:
 <p align="center"><img src="./image/13.1.jpeg" alt="Prueba 13" width="full"/></p>
 
 tbb_personas:
-<p align="center"><img src="./image/13.2.jpeg" alt="Prueba 12" width="full"/></p>
+<p align="center"><img src="./image/13.2.jpeg" alt="Prueba 13" width="full"/></p>
 
 tbb_personas_fisicas:
 
-<p align="center"><img src="./image/13.3.jpeg" alt="Prueba 12" width="full"/></p>
-
-##### Datos insertados:
-*(se muestran los ultimos 3 registros insertados)*
-
-
-
-tbb_pacientes:
-| ID | estatus_medico | estatus_vidas | fecha_ultima_cita_medica | fecha_registro | fecha_actualizacion | estatus |
-|---|---|---|---|---|---|---|
-| 4010 |  | Vegetativo | 2026-02-16 18:54:26 | 2026-02-16 18:54:26 | NULL | 1 |
-| 4009 |  | Vegetativo | 2026-02-16 18:54:26 | 2026-02-16 18:54:26 | NULL | 1 |
-| 4008 |  | Vegetativo | 2026-02-16 18:54:26 | 2026-02-16 18:54:26 | NULL | 1 |
-
-tbb_personas:
-| ID | tipo | rfc | pais_origen | fecha_registro | fecha_actualizacion | estatus |
-|---|---|---|---|---|---|---|
-| 4010 | Física | CALH940216UR9 | Argentina | 2026-02-16 18:54:26 | NULL | 1 |
-| 4009 | Física | CUSM840216VJ3 | Argentina | 2026-02-16 18:54:26 | NULL | 1 |
-| 4008 | Física | POIN860216WL5 | Canadá | 2026-02-16 18:54:26 | NULL | 1 |
-
-tbb_personas_fisicas:
-| ID | titulo_cortesia | nombre | primer_apellido | segundo_apellido | genero | fecha_nacimiento | curp | grupo_sanguineo | fecha_registro | fecha_actualizacion | estatus |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-| 4010 | Abgda. | Héctor | Chacon | Lopez | H | 1994-02-16 | CALH940216HNEHPC8 | B- | 2026-02-16 18:54:26 | NULL | 1 |
-| 4009 | Mx. | Martín | Cruz | Silva | H | 1984-02-16 | CUSM840216HNERLR3 | A- | 2026-02-16 18:54:26 | NULL | 1 |
-| 4008 | Arq. | Noé | Portillo | Ibarra | H | 1986-02-16 | POIN860216HNERBX10 | O+ | 2026-02-16 18:54:26 | NULL | 1 |
+<p align="center"><img src="./image/13.3.jpeg" alt="Prueba 13" width="full"/></p>
 
 ---
 
@@ -374,39 +342,14 @@ tbb_personas_fisicas:
 ##### Datos insertados:
 
 tbb_pacientes:
-<p align="center"><img src="./image/14.1.jpeg" alt="Prueba 13" width="full"/></p>
+<p align="center"><img src="./image/14.1.jpeg" alt="Prueba 14" width="full"/></p>
 
 tbb_personas:
-<p align="center"><img src="./image/14.2.jpeg" alt="Prueba 12" width="full"/></p>
+<p align="center"><img src="./image/14.2.jpeg" alt="Prueba 14" width="full"/></p>
 
 tbb_personas_fisicas:
 
-<p align="center"><img src="./image/14.3.jpeg" alt="Prueba 12" width="full"/></p>
-
-
-##### Datos insertados:
-*(se muestran los ultimos 3 registros insertados)*
-
-tbb_pacientes:
-| ID | estatus_medico | estatus_vidas | fecha_ultima_cita_medica | fecha_registro | fecha_actualizacion | estatus |
-|---|---|---|---|---|---|---|
-| 4117 | Cuidados Paliativos | Vivo | 2026-02-16 19:04:25 | 2026-02-16 19:04:25 | NULL | 1 |
-| 4116 | Cuidados Paliativos | Vivo | 2026-02-16 19:04:25 | 2026-02-16 19:04:25 | NULL | 1 |
-| 4115 | Cuidados Paliativos | Vivo | 2026-02-16 19:04:25 | 2026-02-16 19:04:25 | NULL | 1 |
-
-tbb_personas:
-| ID | tipo | rfc | pais_origen | fecha_registro | fecha_actualizacion | estatus |
-|---|---|---|---|---|---|---|
-| 4117 | Física | FUGF790216QK1 | Canadá | 2026-02-16 19:04:25 | NULL | 1 |
-| 4116 | Física | OESM860216LQ9 | Colombia | 2026-02-16 19:04:25 | NULL | 1 |
-| 4115 | Física | RIHM880216GI8 | México | 2026-02-16 19:04:25 | NULL | 1 |
-
-tbb_personas_fisicas:
-| ID | titulo_cortesia | nombre | primer_apellido | segundo_apellido | genero | fecha_nacimiento | curp | grupo_sanguineo | fecha_registro | fecha_actualizacion | estatus |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-| 4117 | Enf. | Frida | Fuentes | Garcia | M | 1979-02-16 | FUGF790216MNENRR10 | AB+ | 2026-02-16 19:04:25 | NULL | 1 |
-| 4116 | Psic. | Miranda | Ortega | Serrano | M | 1986-02-16 | OESM860216MNERRR2 | B- | 2026-02-16 19:04:25 | NULL | 1 |
-| 4115 | Mtro. | Miranda | Rivera | Huerta | M | 1988-02-16 | RIHM880216MNEVRR10 | O+ | 2026-02-16 19:04:25 | NULL | 1 |
+<p align="center"><img src="./image/14.3.jpeg" alt="Prueba 14" width="full"/></p>
 
 ---
 
@@ -422,25 +365,13 @@ tbb_personas_fisicas:
 
 
 ##### Datos insertados:
-*(se muestran los ultimos 3 registros insertados)*
 
 tbb_pacientes:
-| ID | estatus_medico | estatus_vidas | fecha_ultima_cita_medica | fecha_registro | fecha_actualizacion | estatus |
-|---|---|---|---|---|---|---|
-| 4325 |  | Vivo | 2026-02-16 19:09:15 | 2026-02-16 19:09:15 | NULL | 1 |
-| 4324 |  | Vivo | 2026-02-16 19:09:15 | 2026-02-16 19:09:15 | NULL | 1 |
-| 4323 |  | Vivo | 2026-02-16 19:09:15 | 2026-02-16 19:09:15 | NULL | 1 |
+<p align="center"><img src="./image/15.1.jpeg" alt="Prueba 15" width="full"/></p>
 
 tbb_personas:
-| ID | tipo | rfc | pais_origen | fecha_registro | fecha_actualizacion | estatus |
-|---|---|---|---|---|---|---|
-| 4325 | Física | CARF210216SF9 | México | 2026-02-16 19:09:15 | NULL | 1 |
-| 4324 | Física | REME110216VA6 | México | 2026-02-16 19:09:15 | NULL | 1 |
-| 4323 | Física | DOCL110216ZN5 | Canadá | 2026-02-16 19:09:15 | NULL | 1 |
+<p align="center"><img src="./image/15.2.jpeg" alt="Prueba 15" width="full"/></p>
 
 tbb_personas_fisicas:
-| ID | titulo_cortesia | nombre | primer_apellido | segundo_apellido | genero | fecha_nacimiento | curp | grupo_sanguineo | fecha_registro | fecha_actualizacion | estatus |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-| 4325 | Niña | Frida | Cantu | Rivera | M | 2021-02-16 | CARF210216MNENVR5 | O+ | 2026-02-16 19:09:15 | NULL | 1 |
-| 4324 | Joven | Estefanía | Resendiz | Marquez | M | 2011-02-16 | REME110216MNESRS1 | AB+ | 2026-02-16 19:09:15 | NULL | 1 |
-| 4323 | Joven | Lucía | Dominguez | Carrillo | M | 2011-02-16 | DOCL110216MNEMRC8 | B+ | 2026-02-16 19:09:15 | NULL | 1 |
+
+<p align="center"><img src="./image/15.3.jpeg" alt="Prueba 15" width="full"/></p>
