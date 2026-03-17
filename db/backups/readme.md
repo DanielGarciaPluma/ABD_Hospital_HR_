@@ -3,7 +3,7 @@
 
 ---
 
-Descripción de la carpeta# 🗄️ Backups – Base de Datos
+#  🗄️ Backups – Base de Datos
 
 ## 📂 Módulo de Recursos Humanos
 
