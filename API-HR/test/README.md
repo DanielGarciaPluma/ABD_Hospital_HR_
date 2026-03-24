@@ -8,10 +8,13 @@
 ![Pruebas](https://img.shields.io/badge/Pruebas-10%2F10-brightgreen?style=for-the-badge)
 
 </div>
-Cracion de la rama Brisa_dev
-
 
 ---
+## Dashboard Datos Asimetricos (1,015,163 de Registros)
+![Dashboard Preview](/dashboard/image.png)
+
+---
+
 
 ## 📋 Índice de Pruebas
 
@@ -496,7 +499,14 @@ Vista global del total de pacientes registrados durante todas las pruebas, agrup
 <p align="center"><img src="./img/resultado general de estatus de vida.png" width="100%"/></p>
 
 ---
+## Dashboard Datos Asimetricos (1,155,581 de Registros)
 
+Actualización del dashboard tras la inserción de datos asimétricos.
+
+![Dashboard Preview](/dashboard/dashboard_pacientes_Final.png)
+
+
+---
 <div align="center">
 
 **Hospital MR** · API de Gestión de Pacientes · 10 pruebas completadas ✅
