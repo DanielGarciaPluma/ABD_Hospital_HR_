@@ -15,7 +15,6 @@
 
 ---
 
-
 ## 📋 Índice de Pruebas
 
 | # | Descripción | Pacientes | Estado |
