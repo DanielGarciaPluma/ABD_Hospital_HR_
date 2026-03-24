@@ -3,7 +3,6 @@
 ## 🏥 Plataforma Administrativa Hospitalaria
 
 ---
-Cracion de la rama Jenni_dev
 
 ## 📖 Descripción
 
