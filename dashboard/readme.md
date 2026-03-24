@@ -20,7 +20,12 @@ dashboard/
 
 ## 🎯 Características Principales
 
-<p align="center"><img src="/Image/image.png" alt="Prueba 15" width="full"/></p>
+## Dashboard Datos Asimetrico Practica_05
+<p align="center"><img src="/dashboard/image.png" alt="Prueba 15" width="full"/></p>
+
+## Dashboard Datos Asimetrico Practica_07
+![Dashboard Preview](/dashboard/dashboard_pacientes_Final.png)
+
 
 ---
 
