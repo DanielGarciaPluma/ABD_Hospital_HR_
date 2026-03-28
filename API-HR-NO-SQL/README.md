@@ -79,7 +79,7 @@ MONGO_URI=
 PORT=
 ```
 
-> ⚠️ Asegúrate de que tanto MySQL como MongoDB estén corriendo antes de iniciar el servidor.
+
 
 ---
 
