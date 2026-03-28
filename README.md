@@ -25,6 +25,8 @@ Nuestro compromiso es garantizar un control preciso del personal, sus asignacion
 
 ---
 
+Creacion de Practica_09
+
 ## 📑 Fundamentos de Base de Datos
 
 Dentro del esquema general del proyecto, este módulo define y estructura las siguientes entidades clave:
