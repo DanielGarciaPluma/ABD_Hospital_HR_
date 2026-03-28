@@ -17,8 +17,6 @@ Nuestro compromiso es garantizar un control preciso del personal, sus asignacion
 
 ---
 
-Creacion de la rama Say_dev
-
 ### **Integrantes:**
 * 👤 **Sayurid Bautista Cruz** | `230770`
 * 👤 **Brisa Nallely Garcia Gregorio** | `230362`
