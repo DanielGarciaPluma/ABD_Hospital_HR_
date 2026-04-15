@@ -346,6 +346,11 @@ Si `fecha_fin` es anterior a `fecha_inicio`, la API valida y rechaza la petició
 
 ---
 
+## Dashboard Datos de API NoSQL
+![Dashboard Preview](/dashboard/dashboar_base_NoSQL.jpeg)
+
+---
+
 ## 📦 Script para la Prueba Masiva
 
 Para validar el comportamiento del sistema bajo condiciones de volumen real, se desarrolló el script `scripts/volumeTest.js`. Este genera e inserta de forma automática miles de registros en las tablas de MySQL y en la colección de MongoDB, respetando en todo momento las dependencias entre tablas (claves foráneas) y las reglas de negocio del sistema. Las inserciones se realizan por lotes de 1,000 registros para evitar saturar las conexiones a base de datos.
