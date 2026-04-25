@@ -30,7 +30,7 @@ POST /api/incapacidades
 
 **Resultado:** ✔️ Éxito  
 **Evidencia:**  
-![TEST-001](/evidencias/t1.png) 
+![TEST-001](./evidencias/t1.png) 
 
 ---
 
@@ -47,7 +47,7 @@ GET /api/incapacidades
 
 **Resultado:** ✔️ Éxito  
 **Evidencia:**  
-![TEST-002](/evidencias/t12.png)  
+![TEST-002](./evidencias/t12.png)  
 
 ---
 
@@ -64,7 +64,7 @@ GET /api/incapacidades/personal/1
 
 **Resultado:** ✔️ Éxito  
 **Evidencia:**  
-![TEST-003](/evidencias/t11.png)  
+![TEST-003](./evidencias/t11.png)  
 
 ---
 
@@ -88,7 +88,7 @@ POST /api/reclutamiento
 
 **Resultado:** ✔️ Éxito  
 **Evidencia:**  
-![TEST-004](/evidencias/t8.png)   
+![TEST-004](./evidencias/t8.png)   
 
 ---
 
@@ -105,7 +105,7 @@ GET /api/reclutamiento
 
 **Resultado:** ✔️ Éxito  
 **Evidencia:**  
-![TEST-005](/evidencias/t5.png) 
+![TEST-005](./evidencias/t5.png) 
 ---
 
 ## ✅ TEST-006: Crear horario específico
@@ -130,7 +130,7 @@ POST /api/horarios-especificos
 
 **Resultado:** ✔️ Éxito  
 **Evidencia:**  
-![TEST-006](/evidencias/t6.png)  
+![TEST-006](./evidencias/t6.png)  
 
 ---
 
@@ -147,7 +147,7 @@ GET /api/horarios-especificos
 
 **Resultado:** ✔️ Éxito  
 **Evidencia:**  
-![TEST-007](/evidencias/t7.png) 
+![TEST-007](./evidencias/t7.png) 
 
 ---
 
@@ -169,7 +169,7 @@ POST /api/incapacidades
 
 **Resultado:** ✔️ Error controlado  
 **Evidencia:**  
-![TEST-008](/evidencias/t4.png)
+![TEST-008](./evidencias/t4.png)
 
 ---
 
@@ -190,7 +190,7 @@ POST /api/incapacidades
 
 **Resultado:** ✔️ Validación correcta  
 **Evidencia:**  
-![TEST-009](/evidencias/t3.png)
+![TEST-009](./evidencias/t3.png)
 
 ---
 
@@ -209,6 +209,11 @@ POST /api/incapacidades
 **Evidencia:**
 - Consola con múltiples requests  
 - Tiempo total medido  
+
+---
+# Dashboard final para evaluacion
+![Dashboard](../../dashboard/dashboar_base_NoSQL.jpeg)
+
 
 ---
 
