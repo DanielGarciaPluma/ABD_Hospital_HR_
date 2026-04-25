@@ -21,12 +21,13 @@ Diseñar y estructurar la base de datos del módulo de **Recursos Humanos** dent
 
 
 ##  Probematica
-La gestión del personal hospitalario se realiza de forma dispersa y manual, lo que provoca duplicidad de datos, dificultad para controlar horarios y asignaciones, y falta de una estructura organizacional centralizada que apoye la toma de decisiones.
+La gestión del personal hospitalario se realiza de forma dispersa y manual, lo que provoca duplicidad de datos, dificultad para controlar horarios, personal y asignaciones, y falta de una estructura organizacional centralizada que apoye la toma de decisiones.
 
 ## Propuesta
 
-Desarrollar un módulo de Recursos Humanos dentro de la plataforma administrativa hospitalaria que centralice la información del personal en una base de datos estructurada, permitiendo gestionar departamentos, áreas, horarios y asignaciones de manera integrada.
+Desarrollar dentro de la plataforma administrativa hospitalaria la gestion la información del personal en una base de datos estructurada, permitiendo abarcar departamentos, horarios, personas, personas fisicas, personal, personal medico, medios de contacto y asignaciones de manera integrada.
 La solución busca automatizar procesos, reducir errores administrativos y facilitar la consulta y actualización de datos en tiempo real para mejorar la organización y eficiencia del hospital.
+
 
 ---
 
