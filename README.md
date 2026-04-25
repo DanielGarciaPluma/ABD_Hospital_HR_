@@ -16,6 +16,13 @@ El **Equipo HR** es el encargado de diseñar y estructurar los cimientos del mó
 
 Nuestro compromiso es garantizar un control preciso del personal, sus asignaciones, horarios y estructura organizacional, asegurando una gestión eficiente del capital humano que hace posible la atención médica.
 
+##  Objetivo General
+Diseñar y estructurar la base de datos del módulo de **Recursos Humanos** dentro de la plataforma administrativa hospitalaria, con el fin de centralizar, organizar y gestionar de manera eficiente la información del personal, sus asignaciones, horarios y estructura organizacional, permitiendo una administración confiable, escalable e integrada con los demás módulos del sistema hospitalario.
+
+
+##  Probematica
+La gestión del personal hospitalario se realiza de forma dispersa y manual, lo que provoca duplicidad de datos, dificultad para controlar horarios y asignaciones, y falta de una estructura organizacional centralizada que apoye la toma de decisiones.
+
 ---
 
 ### **Integrantes:**
