@@ -1,1 +1,1 @@
-creacion del readme principal
+creacion del readme principa
