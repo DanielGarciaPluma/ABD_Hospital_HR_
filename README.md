@@ -1,6 +1,6 @@
 # ABD_Hospital_HR
-## 🏥 Plataforma Administrativa Hospitalaria
-## 👥 Equipo HR – Recursos Humanos
+##  Plataforma Administrativa Hospitalaria
+##  Equipo HR – Recursos Humanos
 
 ---
 <p align="center">
@@ -9,9 +9,8 @@
 
 ---
 
-Creacion de rama Jenni_dev
 
-## 👥 Presentación del Equipo
+##  Presentación del Equipo
 
 El **Equipo HR** es el encargado de diseñar y estructurar los cimientos del módulo de **Recursos Humanos** del hospital.
 
